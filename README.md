@@ -1,4 +1,6 @@
-# kit-bitz
+[Kit-Bitz](https://arcane-sea-80742.herokuapp.com/login)
+
+# Kit-Bitz
 
 ## An inventory management website for electronics hobbists to track inventory and share kits.
 
@@ -12,12 +14,12 @@ In the Kits tab the user can view all of the kits that have been created on the 
 
 ## Technologies used
 MERN stack:
--MongoDB
--Express
--React
--Node
+- MongoDB
+- Express
+- React
+- Node
 
 Plus:
--Busboy
--PapaParse
--React-Bootstrap
+- Busboy
+- PapaParse
+- React-Bootstrap
