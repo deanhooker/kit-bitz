@@ -1,5 +1,3 @@
-[Kit-Bitz](https://arcane-sea-80742.herokuapp.com/login)
-
 # Kit-Bitz
 
 ## An inventory management website for electronics hobbists to track inventory and share kits.
@@ -23,3 +21,5 @@ Plus:
 - Busboy
 - PapaParse
 - React-Bootstrap
+
+Hosted on Heroku [Kit-Bitz](https://arcane-sea-80742.herokuapp.com/login)
